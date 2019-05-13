@@ -5,7 +5,7 @@ font-family: 'Carter One', cursive;
 
 color:yellow;
 
-font-size: 70px;
+font-size: 50px;
 
 text-shadow: 5px 2px 4px black;
 }
@@ -14,4 +14,8 @@ Body{
 }
 P{
     
+}
+table{
+    border: 4px yellow;
+
 }
