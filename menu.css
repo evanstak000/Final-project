@@ -5,7 +5,7 @@ font-family: 'Carter One', cursive;
 
 color:yellow;
 
-font-size: 50px;
+font-size: 70px;
 
 text-shadow: 5px 2px 4px black;
 }
@@ -18,4 +18,16 @@ P{
 table{
     border: 4px yellow;
 
+}
+h2{
+    font-family: 'Carter One', cursive;
+    text-align: center;
+    color: yellow;
+ font-size: 36px;
+
+}
+td{
+font-size: 20px;
+color: yellow;
+font-family: 'Baloo Bhai', cursive;
 }
