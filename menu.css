@@ -27,7 +27,8 @@ h2{
 
 }
 td{
-font-size: 20px;
+font-size: 17px;
 color: yellow;
-font-family: 'Baloo Bhai', cursive;
+font-family: 'Baloo Bhai', cursive; 
+text-align: center;
 }
